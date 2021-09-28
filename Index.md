@@ -24,7 +24,7 @@ Hello World!
 3. Dumpling
 
 ## Things To Be Done
-- [x] learn a sport
+- [x] learn swimming
 - [ ] read 20 books :tada:
 
 
